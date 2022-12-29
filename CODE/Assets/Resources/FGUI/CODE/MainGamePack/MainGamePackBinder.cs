@@ -9,6 +9,7 @@ namespace MainGamePack
         public static void BindAll()
         {
             UIObjectFactory.SetPackageItemExtension(MainGameCom.URL, typeof(MainGameCom));
+            UIObjectFactory.SetPackageItemExtension(Title.URL, typeof(Title));
         }
     }
 }

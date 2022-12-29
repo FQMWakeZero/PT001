@@ -2,6 +2,9 @@
 <packageDescription id="miewpp62">
   <resources>
     <component id="jbpe0" name="MainGameCom.xml" path="/" exported="true"/>
+    <image id="jbpe1" name="UI_CRB_HUD_DatachronModes_499_478.tex.png" path="/Image/"/>
+    <component id="jbpe2" name="Title.xml" path="/Com/"/>
+    <image id="jbpe9" name="UI_CRB_Crafting_852_276.tex.png" path="/Image/" exported="true"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>

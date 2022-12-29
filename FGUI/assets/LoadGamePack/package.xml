@@ -2,6 +2,12 @@
 <packageDescription id="mx6k5pl6">
   <resources>
     <component id="gd7s0" name="LoadGameCom.xml" path="/" exported="true"/>
+    <image id="jbpe1" name="UI_CRB_TechTree_0_0.tex.png" path="/Image/" exported="true"/>
+    <image id="jbpe4" name="UI_CRB_HUD_TargetFrame_TEMP_189_576.tex.png" path="/Image/"/>
+    <image id="jbpe5" name="ResourceBar_TEMP_530_220.tex.png" path="/Image/" scale9grid="43,5,128,7"/>
+    <image id="jbpe6" name="ResourceBar_TEMP_530_236.tex.png" path="/Image/"/>
+    <component id="jbpe7" name="LoadGameBar.xml" path="/Com/"/>
+    <image id="jbpe8" name="UI_TEMP_LargeHoloCircle.tex.png" path="/Image/"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>

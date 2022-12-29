@@ -7,6 +7,9 @@ namespace LoadGamePack
 {
     public partial class LoadGameCom : GComponent
     {
+        public GImage n1;
+        public LoadGameBar LogingBar;
+        public Transition End;
         public const string URL = "ui://mx6k5pl6gd7s0";
 
         public static LoadGameCom CreateInstance()
@@ -18,6 +21,9 @@ namespace LoadGamePack
         {
             base.ConstructFromXML(xml);
 
+            n1 = (GImage)GetChildAt(0);
+            LogingBar = (LoadGameBar)GetChildAt(1);
+            End = GetTransitionAt(0);
         }
     }
 }

@@ -9,6 +9,7 @@ namespace LoadGamePack
         public static void BindAll()
         {
             UIObjectFactory.SetPackageItemExtension(LoadGameCom.URL, typeof(LoadGameCom));
+            UIObjectFactory.SetPackageItemExtension(LoadGameBar.URL, typeof(LoadGameBar));
         }
     }
 }
