@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ItemGame
+  m_EditorClassIdentifier: 
+  m_GroupName: ItemGame
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 22d2e2614bee49246a0f20ecff31bfd8
+  m_SerializeEntries:
+  - m_GUID: c8f60675f6222ee48b94fd060ef8c8f7
+    m_Address: Item8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50ec25a5ad8a18945a0442fda9f1b255
+    m_Address: Item16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ad56da492b8ca6479279e9ad382c988
+    m_Address: Item2048
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5642a3606f4c02343850a9ed0afc94ff
+    m_Address: Item1024
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 967a944805319d54cb091cec4b4c0c46
+    m_Address: Item256
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e55dcbbfa2bc514eab17bdbb57f6cd0
+    m_Address: Item2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd1ed68830fc669429bba8f94a815ebb
+    m_Address: Item128
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d0868a49ed316143ab33e230e971f20
+    m_Address: Item512
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ba07a2eaaf78fd4ab57ef179c802816
+    m_Address: Item4096
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcaf9bfdacd4e194e935a89349b68de0
+    m_Address: Item4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c73b73a477aa1b4cb6368b99b7b0867
+    m_Address: Item64
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4df1f50a7fa8e344ba5fd0aa10201e13
+    m_Address: Item32
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4363ab60047a5bf4abc26e738e12c154
+    m_Address: Item8192
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0211b7d8b727adf49a15931b74c7efac
+    m_Address: Assets/Game/UI/GameUI/ItemGame.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 151d835302ba24c4faecd973597ab700, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ea8e076c5fbf18b42874ef9514366f08, type: 2}
+    - {fileID: 11400000, guid: 115cc37450c91444e9d0070f3d2f220b, type: 2}

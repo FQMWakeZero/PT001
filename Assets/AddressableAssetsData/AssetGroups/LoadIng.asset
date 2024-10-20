@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LoadIng
+  m_EditorClassIdentifier: 
+  m_GroupName: LoadIng
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b653e46918fa96c49a7c0d92460225dd
+  m_SerializeEntries:
+  - m_GUID: 3ed1f4b613b2607498674bd8ebae2bf2
+    m_Address: Assets/Game/UI/LoadIngUI/LoadIngUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 151d835302ba24c4faecd973597ab700, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 87aded17275c9f8459ce36c335cd64ac, type: 2}
+    - {fileID: 11400000, guid: b2c0ce2032f44df4daecc96efe0fad66, type: 2}

@@ -1,0 +1,184 @@
+﻿[
+  {
+    "ID": "2",
+    "SpriteID": "300001",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "4",
+    "SpriteID": "300002",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "8",
+    "SpriteID": "300003",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "16",
+    "SpriteID": "300004",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "32",
+    "SpriteID": "300005",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "64",
+    "SpriteID": "300006",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "128",
+    "SpriteID": "300007",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "256",
+    "SpriteID": "300008",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "512",
+    "SpriteID": "300009",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "1024",
+    "SpriteID": "300010",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "2048",
+    "SpriteID": "300011",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "4096",
+    "SpriteID": "300012",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  },
+  {
+    "ID": "8192",
+    "SpriteID": "300013",
+    "TrailColors_RGB": [
+      242,
+      155,
+      118
+    ],
+    "TrailEnd_RGB": [
+      226,
+      213,
+      196
+    ]
+  }
+]

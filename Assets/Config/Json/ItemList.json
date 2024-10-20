@@ -1,0 +1,38 @@
+﻿[
+  {
+    "ID": "100001",
+    "Name": "原木",
+    "Tag": [
+      "Material"
+    ],
+    "Weight": 2,
+    "Size": [
+      2,
+      2
+    ],
+    "Synthesis": null,
+    "Number": 0,
+    "Condition": null,
+    "Object": "300001"
+  },
+  {
+    "ID": "100002",
+    "Name": "板材",
+    "Tag": [
+      "Material"
+    ],
+    "Weight": 1,
+    "Size": [
+      2,
+      2
+    ],
+    "Synthesis": [
+      "100001"
+    ],
+    "Number": 2,
+    "Condition": [
+      "200001"
+    ],
+    "Object": "300002"
+  }
+]

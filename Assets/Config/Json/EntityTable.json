@@ -1,0 +1,67 @@
+﻿[
+  {
+    "ID": "300001",
+    "Spirit": "Item2",
+    "Preform": null
+  },
+  {
+    "ID": "300002",
+    "Spirit": "Item4",
+    "Preform": null
+  },
+  {
+    "ID": "300003",
+    "Spirit": "Item8",
+    "Preform": null
+  },
+  {
+    "ID": "300004",
+    "Spirit": "Item16",
+    "Preform": null
+  },
+  {
+    "ID": "300005",
+    "Spirit": "Item32",
+    "Preform": null
+  },
+  {
+    "ID": "300006",
+    "Spirit": "Item64",
+    "Preform": null
+  },
+  {
+    "ID": "300007",
+    "Spirit": "Item128",
+    "Preform": null
+  },
+  {
+    "ID": "300008",
+    "Spirit": "Item256",
+    "Preform": null
+  },
+  {
+    "ID": "300009",
+    "Spirit": "Item512",
+    "Preform": null
+  },
+  {
+    "ID": "300010",
+    "Spirit": "Item1024",
+    "Preform": null
+  },
+  {
+    "ID": "300011",
+    "Spirit": "Item2048",
+    "Preform": null
+  },
+  {
+    "ID": "300012",
+    "Spirit": "Item4096",
+    "Preform": null
+  },
+  {
+    "ID": "300013",
+    "Spirit": "Item8192",
+    "Preform": null
+  }
+]

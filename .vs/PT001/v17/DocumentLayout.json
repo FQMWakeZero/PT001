@@ -1,0 +1,861 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\PT001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\framework\\ui\\pagebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\framework\\ui\\pagebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_maingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_maingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\framework\\ui\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\framework\\ui\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|e:\\work\\pt001\\assets\\game\\ui\\gameui\\system\\gameuimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\system\\gameuimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\system\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\system\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E94B0CF-9E96-633C-1D56-28CD1199E6FD}|Assembly-CSharp-Editor.csproj|E:\\Work\\PT001\\assets\\editor\\uiserialization\\uiserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E94B0CF-9E96-633C-1D56-28CD1199E6FD}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\uiserialization\\uiserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E94B0CF-9E96-633C-1D56-28CD1199E6FD}|Assembly-CSharp-Editor.csproj|E:\\Work\\PT001\\assets\\editor\\exceltools\\exporttableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E94B0CF-9E96-633C-1D56-28CD1199E6FD}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\exceltools\\exporttableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\system\\player\\numericalmanaqer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\system\\player\\numericalmanaqer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\loadingui\\system\\loadingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\loadingui\\system\\loadingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\system\\maingameuimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\system\\maingameuimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\framework\\extend\\simpleanimationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\framework\\extend\\simpleanimationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_playbuttontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_playbuttontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\framework\\manager\\assetsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\framework\\manager\\assetsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_transitionalbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_transitionalbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_itemnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_itemnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_itemgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_itemgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_itemback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\itemgame\\ui_itemback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_silvercointext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_silvercointext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_silvercoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_silvercoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_playgamebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_playgamebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_playbuttonbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_playbuttonbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_optionbuttontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_optionbuttontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_head.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_head.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_gemstonetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_gemstonetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_gemstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\maingameui\\serialization\\maingameui\\ui_gemstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_gemstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_gemstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\system\\itemgamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\system\\itemgamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_silvercointext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_silvercointext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_silvercoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_silvercoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_optionbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_optionbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_gemstonetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_gemstonetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_buttn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_buttn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_track_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_track_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_track_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_track_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\loadingui\\serialization\\loadingui\\ui_backimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\loadingui\\serialization\\loadingui\\ui_backimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\loadingui\\serialization\\loadingui\\ui_loadingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\loadingui\\serialization\\loadingui\\ui_loadingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\loadingui\\serialization\\loadingui\\ui_loadingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\loadingui\\serialization\\loadingui\\ui_loadingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\loadingui\\serialization\\loadingui\\ui_loadingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\loadingui\\serialization\\loadingui\\ui_loadingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_backbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_backbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\ui\\gameui\\serialization\\gameui\\ui_gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\ui\\gameui\\serialization\\gameui\\ui_gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\config\\models\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\config\\models\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\config\\models\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\config\\models\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\config\\models\\entitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\config\\models\\entitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E94B0CF-9E96-633C-1D56-28CD1199E6FD}|Assembly-CSharp-Editor.csproj|E:\\Work\\PT001\\assets\\editor\\exceltools\\models\\editorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E94B0CF-9E96-633C-1D56-28CD1199E6FD}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\exceltools\\models\\editorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\framework\\extend\\numericalprocessingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\framework\\extend\\numericalprocessingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|E:\\Work\\PT001\\assets\\game\\gameinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F746E6A-07A3-BA3E-DA29-603E677755DF}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\gameinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoadingModel.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\System\\LoadingModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\LoadIngUI\\System\\LoadingModel.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\System\\LoadingModel.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\LoadIngUI\\System\\LoadingModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:50:09.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NumericalManaqer.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\System\\Player\\NumericalManaqer.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\System\\Player\\NumericalManaqer.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\System\\Player\\NumericalManaqer.cs",
+              "RelativeToolTip": "Assets\\Game\\System\\Player\\NumericalManaqer.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAANwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:08:10.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\System\\Player\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\System\\Player\\PlayerData.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\System\\Player\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Game\\System\\Player\\PlayerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:55:30.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameUIModel.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\System\\GameUIModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\System\\GameUIModel.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\System\\GameUIModel.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\System\\GameUIModel.cs",
+              "ViewState": "AQIAAPkBAAAAAAAAAAA0wAoCAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:53:37.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageBase.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Framework\\UI\\PageBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Framework\\UI\\PageBase.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Framework\\UI\\PageBase.cs",
+              "RelativeToolTip": "Assets\\Framework\\UI\\PageBase.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAywC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:08:48.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageModel.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Framework\\UI\\PageModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Framework\\UI\\PageModel.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Framework\\UI\\PageModel.cs",
+              "RelativeToolTip": "Assets\\Framework\\UI\\PageModel.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowGMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:14:43.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI_MainGameUI.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_MainGameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_MainGameUI.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_MainGameUI.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_MainGameUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:13:17.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExportTableEditor.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Editor\\ExcelTools\\ExportTableEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\ExcelTools\\ExportTableEditor.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Editor\\ExcelTools\\ExportTableEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\ExcelTools\\ExportTableEditor.cs",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:09:11.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UISerialization.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Editor\\UISerialization\\UISerialization.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\UISerialization\\UISerialization.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Editor\\UISerialization\\UISerialization.cs",
+              "RelativeToolTip": "Assets\\Editor\\UISerialization\\UISerialization.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA1wBAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:09:38.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainGameUIModel.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\System\\MainGameUIModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\System\\MainGameUIModel.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\System\\MainGameUIModel.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\System\\MainGameUIModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:08:04.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleAnimationExtension.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Framework\\Extend\\SimpleAnimationExtension.cs",
+              "RelativeDocumentMoniker": "Assets\\Framework\\Extend\\SimpleAnimationExtension.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Framework\\Extend\\SimpleAnimationExtension.cs",
+              "RelativeToolTip": "Assets\\Framework\\Extend\\SimpleAnimationExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:08:26.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UI_PlayButtonText.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayButtonText.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayButtonText.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayButtonText.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayButtonText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:13:41.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssetsManager.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Framework\\Manager\\AssetsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Framework\\Manager\\AssetsManager.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Framework\\Manager\\AssetsManager.cs",
+              "RelativeToolTip": "Assets\\Framework\\Manager\\AssetsManager.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAA1wGYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:08:40.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UI_SilverCoin.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_SilverCoin.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_SilverCoin.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_SilverCoin.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_SilverCoin.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:13:56.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UI_SilverCoinText.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_SilverCoinText.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_SilverCoinText.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_SilverCoinText.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_SilverCoinText.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:14:04.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UI_ItemBack.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemBack.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemBack.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemBack.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemBack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:14:16.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UI_ItemGame.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemGame.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemGame.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:14:22.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UI_ItemNumber.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemNumber.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemNumber.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemNumber.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_ItemNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:14:29.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UI_Trail.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_Trail.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_Trail.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_Trail.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_Trail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:14:34.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UI_TransitionalBackground.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_TransitionalBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_TransitionalBackground.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_TransitionalBackground.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\ItemGame\\UI_TransitionalBackground.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:14:40.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UI_PlayButtonBackground.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayButtonBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayButtonBackground.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayButtonBackground.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayButtonBackground.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:13:33.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UI_OptionButtonText.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_OptionButtonText.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_OptionButtonText.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_OptionButtonText.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_OptionButtonText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:13:27.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UI_PlayGameButton.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayGameButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayGameButton.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayGameButton.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_PlayGameButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:13:25.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UI_Head.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_Head.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_Head.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_Head.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_Head.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:13:10.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UI_GemstoneText.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_GemstoneText.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_GemstoneText.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_GemstoneText.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_GemstoneText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:13:02.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UI_Gemstone.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_Gemstone.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_Gemstone.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_Gemstone.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\MainGameUI\\Serialization\\MainGameUI\\UI_Gemstone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:12:15.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UI_Top.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Top.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Top.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Top.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Top.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:53.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UI_Items.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Items.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Items.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Items.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Items.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:49.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UI_Icon.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Icon.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Icon.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Icon.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Icon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:48.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UI_OptionButton.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_OptionButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_OptionButton.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_OptionButton.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_OptionButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:42.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UI_SilverCoin.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_SilverCoin.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_SilverCoin.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_SilverCoin.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_SilverCoin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:41.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UI_SilverCoinText.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_SilverCoinText.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_SilverCoinText.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_SilverCoinText.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_SilverCoinText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:41.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ItemGameModel.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\System\\ItemGameModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\System\\ItemGameModel.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\System\\ItemGameModel.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\System\\ItemGameModel.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAcwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:37:00.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UI_Game.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Game.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Game.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:12.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UI_Gemstone.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Gemstone.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Gemstone.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Gemstone.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Gemstone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:45.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UI_GemstoneText.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_GemstoneText.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_GemstoneText.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_GemstoneText.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_GemstoneText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:48.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UI_Track_2.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Track_2.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Track_2.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Track_2.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Track_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:39.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UI_Track_5.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Track_5.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Track_5.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Track_5.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Track_5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:39.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UI_BackImage.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_BackImage.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_BackImage.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_BackImage.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_BackImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:37.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UI_LoadingText.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadingText.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadingText.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadingText.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadingText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:37.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UI_Buttn.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Buttn.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Buttn.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Buttn.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Buttn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:07.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UI_Background.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Background.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Background.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Background.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_Background.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:10:59.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UI_LoadIngUI.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadIngUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadIngUI.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadIngUI.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadIngUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:36.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UI_LoadingBar.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadingBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadingBar.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadingBar.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\LoadIngUI\\Serialization\\LoadIngUI\\UI_LoadingBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:11:35.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UI_BackButton.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_BackButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_BackButton.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_BackButton.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_BackButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:10:52.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UI_GameUI.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_GameUI.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_GameUI.cs",
+              "RelativeToolTip": "Assets\\Game\\UI\\GameUI\\Serialization\\GameUI\\UI_GameUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:10:42.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ItemList.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Config\\Models\\ItemList.cs",
+              "RelativeDocumentMoniker": "Assets\\Config\\Models\\ItemList.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Config\\Models\\ItemList.cs",
+              "RelativeToolTip": "Assets\\Config\\Models\\ItemList.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:10:21.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Config\\Models\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Config\\Models\\ItemData.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Config\\Models\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Config\\Models\\ItemData.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:10:09.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EditorClass.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Editor\\ExcelTools\\Models\\EditorClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\ExcelTools\\Models\\EditorClass.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Editor\\ExcelTools\\Models\\EditorClass.cs",
+              "RelativeToolTip": "Assets\\Editor\\ExcelTools\\Models\\EditorClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:09:05.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EntityTable.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Config\\Models\\EntityTable.cs",
+              "RelativeDocumentMoniker": "Assets\\Config\\Models\\EntityTable.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Config\\Models\\EntityTable.cs",
+              "RelativeToolTip": "Assets\\Config\\Models\\EntityTable.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:08:37.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NumericalProcessingExtension.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Framework\\Extend\\NumericalProcessingExtension.cs",
+              "RelativeDocumentMoniker": "Assets\\Framework\\Extend\\NumericalProcessingExtension.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Framework\\Extend\\NumericalProcessingExtension.cs",
+              "RelativeToolTip": "Assets\\Framework\\Extend\\NumericalProcessingExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:37:16.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GameInit.cs",
+              "DocumentMoniker": "E:\\Work\\PT001\\Assets\\Game\\GameInit.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\GameInit.cs",
+              "ToolTip": "E:\\Work\\PT001\\Assets\\Game\\GameInit.cs",
+              "RelativeToolTip": "Assets\\Game\\GameInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:55:49.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
